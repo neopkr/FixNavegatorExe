@@ -1,0 +1,10 @@
+C:\Users\neopk\source\repos\FixNavegator\bin\Debug\FixNavegator.exe.config
+C:\Users\neopk\source\repos\FixNavegator\bin\Debug\FixNavegator.exe
+C:\Users\neopk\source\repos\FixNavegator\bin\Debug\FixNavegator.pdb
+C:\Users\neopk\source\repos\FixNavegator\obj\Debug\FixNavegator.csprojAssemblyReference.cache
+C:\Users\neopk\source\repos\FixNavegator\obj\Debug\FixNavegator.Formd.resources
+C:\Users\neopk\source\repos\FixNavegator\obj\Debug\FixNavegator.Properties.Resources.resources
+C:\Users\neopk\source\repos\FixNavegator\obj\Debug\FixNavegator.csproj.GenerateResource.cache
+C:\Users\neopk\source\repos\FixNavegator\obj\Debug\FixNavegator.csproj.CoreCompileInputs.cache
+C:\Users\neopk\source\repos\FixNavegator\obj\Debug\FixNavegator.exe
+C:\Users\neopk\source\repos\FixNavegator\obj\Debug\FixNavegator.pdb
