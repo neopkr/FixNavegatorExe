@@ -23,3 +23,6 @@ $ cd FixNavegator
 ```sh
 $ dotnet run --proyect FixNavegator
 ```
+## Logs
+El commit inicial es el exe forms, este aún se encuentra en un estado pre-alpha, pero he añadido las otras versiones que son de consola (cpp, c#), cuál solo tiene codigo sin una interfaz gráfica. El proyecto inicial se llamo FixFirefox (cpp name) por los montones de problemas que contenia firefox en su momento o en algunos computadores.
+Actualmente contamos con una página web donde puedes ver los cambios y muchos más sobre el programa como tal.
